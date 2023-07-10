@@ -1,0 +1,5 @@
+We can further enhance the preformance of the model by changing the following:
+i. Add more LSTM layers 
+ii. Add more number of neurons in a praticular LSTM layer.
+iii. Use adifferent optimizer lik RMSprop (good for recurrent neural network).
+iv. Use different different learning rate and check the results.
